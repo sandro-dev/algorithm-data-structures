@@ -4,3 +4,4 @@ node_modules
 **__pycache__
 .env
 .coverage
+ABOUT.md
